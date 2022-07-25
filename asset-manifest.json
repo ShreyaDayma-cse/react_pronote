@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_pronote/static/css/main.9bf64872.css",
+    "main.js": "/react_pronote/static/js/main.8ab4b878.js",
+    "static/js/787.47fa69d2.chunk.js": "/react_pronote/static/js/787.47fa69d2.chunk.js",
+    "index.html": "/react_pronote/index.html",
+    "main.9bf64872.css.map": "/react_pronote/static/css/main.9bf64872.css.map",
+    "main.8ab4b878.js.map": "/react_pronote/static/js/main.8ab4b878.js.map",
+    "787.47fa69d2.chunk.js.map": "/react_pronote/static/js/787.47fa69d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bf64872.css",
+    "static/js/main.8ab4b878.js"
+  ]
+}
